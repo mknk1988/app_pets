@@ -28,3 +28,7 @@ Route::get("/pet", function () {
 Route::get("/directory", function () {
     return view("directory");
 });
+
+Route::get("/request", function () {
+    return view("request");
+});
