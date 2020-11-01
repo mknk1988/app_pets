@@ -3,7 +3,7 @@
 <head>
     <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet"/>
     <link href="{{ asset("/css/request.css") }}" rel="stylesheet"/>
-    <title>Document</title></head>
+    <title>Pet - заявка на животное</title></head>
 <body>
 <div class="v24_2">
     <div class="v24_3"></div>

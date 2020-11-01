@@ -13,3 +13,10 @@
 
 Архитектура базы данных содержится в файле pets.mwb
 Дизайн платформы в файле design.fig
+
+Список реализованных страниц:
+1. Авторизация: http://exlibris-team.ru/
+2. Поиск: http://exlibris-team.ru/search
+3. Список приютов: http://exlibris-team.ru/directory
+4. Заявка на животное: http://exlibris-team.ru/request
+5. Страница питомца для пользователя: http://exlibris-team.ru/pet
