@@ -57,23 +57,9 @@
         </div>
     </div>
     <span class="v4_68">Поиск</span>
-    <div class="v4_132">
-        <div class="v4_133">
-            <div class="v4_134">
-                <div class="v4_135"></div>
-                <div class="v4_136"></div>
-                <div class="v4_137"></div>
-                <div class="v4_138"></div>
-            </div>
-        </div>
-    </div>
+    <div class="v4_132"></div>
     <div class="v4_242"></div>
-    <div class="v4_243">
-        <div class="v4_244"></div>
-        <div class="v4_245"></div>
-        <div class="v4_246"></div>
-        <div class="v4_247"></div>
-    </div>
+    <div class="v4_243"></div>
 </div>
 </body>
 </html>

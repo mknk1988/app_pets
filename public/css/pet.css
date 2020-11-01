@@ -16,7 +16,7 @@
 .v4_124 {
   width: 304px;
   height: 379px;
-  background: url("../images/v4_124.png");
+  background: url("../images/dog.jpeg");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -89,7 +89,7 @@
 .v4_185 {
   width: 37px;
   height: 37px;
-  background: url("../images/v4_185.png");
+  background: url("../images/image 1.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -98,6 +98,18 @@
   top: 752px;
   left: 123px;
   overflow: hidden;
+}
+.v4_1861 {
+    width: 400px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 745px;
+    left: 180px;
+    font-family: Inter;
+    font-weight: Semi Bold;
+    font-size: 24px;
+    opacity: 1;
+    text-align: left;
 }
 .v4_186 {
   width: 240px;
@@ -114,7 +126,7 @@
 .v4_187 {
   width: 30px;
   height: 30px;
-  background: url("../images/v4_187.png");
+  background: url("../images/image 2.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -127,7 +139,7 @@
 .v4_188 {
   width: 60px;
   height: 60px;
-  background: url("../images/v4_188.png");
+  background: url("../images/happy (1) 1.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -189,7 +201,7 @@
 .v4_194 {
   width: 40px;
   height: 40px;
-  background: url("../images/v4_194.png");
+  background: url("../images/pawprint (1) 1.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -260,7 +272,7 @@
 .v4_201 {
   width: 40px;
   height: 40px;
-  background: url("../images/v4_201.png");
+  background: url("../images/cake 1.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -352,7 +364,7 @@
 .v4_224 {
   width: 40px;
   height: 40px;
-  background: url("../images/v4_224.png");
+  background: url("../images/weight 1.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
